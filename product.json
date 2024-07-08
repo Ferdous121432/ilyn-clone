@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-3.jpg",
+    "image2": "img/products/p-4.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-6.jpg",
+    "image2": "img/products/p-5.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-8.jpg",
+    "image2": "img/products/p-7.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-9.jpg",
+    "image2": "img/products/p-10.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  },
+  {
+    "id": 1,
+    "productId": "H241013",
+    "image1": "img/products/p-1.jpg",
+    "image2": "img/products/p-2.jpg",
+    "name": "Holiday Island Camp Shirt",
+    "color": "black",
+    "catagory": "shirt",
+    "price": 2150,
+    "available-size": ["xs", "s", "m", "l", "xl"]
+  }
+]

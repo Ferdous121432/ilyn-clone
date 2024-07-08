@@ -1,0 +1,161 @@
+/* rem and em do NOT depend on html font-size in media queries! Instead, 1rem = 1em = 16px */
+
+/**************************/
+/* BELOW 1344px (Smaller desktops) */
+/**************************/
+
+@media (max-width: 84em) {
+}
+
+/**************************/
+/* BELOW 1200px (Landscape Tablets) */
+/**************************/
+
+@media (max-width: 75em) {
+  html {
+    /* 9px / 16px  */
+    font-size: 56.25%;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 400px, 1fr;
+  }
+  .body {
+    grid-column: 2/2;
+  }
+  .query-menu {
+    display: flex;
+  }
+
+  .search-2 {
+    display: none;
+  }
+
+  .menu-1 {
+    display: none;
+  }
+
+  .query-menu-bar {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    list-style: none;
+    text-decoration: none;
+    font-size: 2rem;
+    overflow: hidden;
+    height: 100vh;
+    width: 100%;
+    z-index: 123;
+    background-color: #fff;
+    top: 0;
+    padding-top: 5rem;
+    left: -100%;
+    transition: 0.2s all;
+    background-image: url("/img/products/p\ \(1\).jpg");
+  }
+  .menu-logo img {
+    padding: 3rem 0;
+    width: 10rem;
+  }
+
+  .menu-open {
+    left: 0;
+  }
+
+  .query-menu-bar li {
+    padding: 0.5rem 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+
+  .query-menu-bar li:hover {
+    background-color: rgb(19, 18, 18);
+    width: 100%;
+    text-align: center;
+  }
+
+  .query-menu-bar li a:hover {
+    color: #fff;
+  }
+
+  .menu-close {
+    position: absolute;
+    font-size: 4rem;
+    border: none;
+    padding: 1.5rem;
+    right: 6rem;
+    background-color: #fff;
+  }
+
+  .menu-body {
+    display: none;
+  }
+
+  .menu-bar-icon {
+    padding: 2rem;
+  }
+}
+
+/**************************/
+/* BELOW 944px (Tablets) */
+/**************************/
+
+@media (max-width: 59em) {
+}
+
+/* 
+- Font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+
+/**************************/
+/* Fixing Safari flexbox gap */
+/**************************/
+
+.no-flexbox-gap .main-nav-list li:not(:last-child) {
+  margin-right: 4.8rem;
+}
+
+.no-flexbox-gap .list-item:not(:last-child) {
+  margin-bottom: 1.6rem;
+}
+
+.no-flexbox-gap .list-icon:not(:last-child) {
+  margin-right: 1.6rem;
+}
+
+.no-flexbox-gap .delivered-faces {
+  margin-right: 1.6rem;
+}
+
+.no-flexbox-gap .meal-attribute:not(:last-child) {
+  margin-bottom: 2rem;
+}
+
+.no-flexbox-gap .meal-icon {
+  margin-right: 1.6rem;
+}
+
+.no-flexbox-gap .footer-row div:not(:last-child) {
+  margin-right: 6.4rem;
+}
+
+.no-flexbox-gap .social-links li:not(:last-child) {
+  margin-right: 2.4rem;
+}
+
+.no-flexbox-gap .footer-nav li:not(:last-child) {
+  margin-bottom: 2.4rem;
+}
+
+@media (max-width: 75em) {
+}
+
+@media (max-width: 59em) {
+}
